@@ -1092,7 +1092,7 @@
   //#define TELEMETRY_FRSKY_SERIAL 3
   #define TELEMETRY_FRSKY_SOFTSERIAL_PIN 12  // connect FrSky Receiver's Rx sideport to D12 without a ttl inverter
   #define TELEMETRY_FRSKY_SERIAL 9600        // if using softserial, set baudrate here (comment out "TELEMETRY_FRSKY_SERIAL 3" above)
-  #define TELEMETRY_FRSKY_VBAT 112           //default 110
+  #define TELEMETRY_FRSKY_VBAT 110           //default 110
 
   //#define KV_MOTOR          800.0         // KV = RPM per Volt
   //#define R_MOTOR              162        // resistance of each motor in milliohm
